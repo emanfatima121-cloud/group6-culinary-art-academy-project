@@ -15,4 +15,5 @@ It demonstrates HTML structure, CSS styling, and basic navigation.
 - 📈 Excel File: [https://1drv.ms/x/c/7f3aad4c9f31c47b/IQC5foBKeblxTq3DFjeLfG6wATZepqeBtzdPLp1femiiBU0?e=ZzYdob]
 
 ## Live Website
-🔗:/Users/Orbit/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/ED037E88A76562AE197EEF1B35B769
+🔗:e
+🔗 https://khanusaid9900.github.io/Group9-Culinary-Arts-Academy/
